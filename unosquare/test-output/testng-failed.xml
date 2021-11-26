@@ -6,8 +6,8 @@
       <class name="FirstAPITest">
         <methods>
           <include name="beforeSuite"/>
+          <include name="PostLogin"/>
           <include name="beforeMethod"/>
-          <include name="PostRegister"/>
         </methods>
       </class> <!-- FirstAPITest -->
     </classes>
